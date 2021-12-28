@@ -1,4 +1,4 @@
-package main
+package vb_print
 
 import (
 	pterm "github.com/pterm/pterm"
