@@ -1,4 +1,4 @@
-package vb_print
+package GolangDemoPrinter
 
 import (
 	pterm "github.com/pterm/pterm"
