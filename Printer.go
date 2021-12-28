@@ -6,4 +6,5 @@ import (
 
 func PrintUsingStyle1(text string) {
 	pterm.Success.Printfln(text)
+	pterm.Error.Printfln(text)
 }
